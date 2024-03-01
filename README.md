@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zoltán Németh</h1>
-<h3 align="center">Software Engineering student az University of Szeged</h3>
+<h3 align="center">Software Engineering student at University of Szeged</h3>
 
 - 🌱 I’m currently learning **.NET**
 
