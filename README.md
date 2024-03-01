@@ -13,7 +13,8 @@
 <a href="https://linkedin.com/in/nemethzozzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nemethzozzi" height="30" width="40" /></a>
 <a href="https://discord.gg/654333734580912148?mwg_rnd=9359940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="654333734580912148?mwg_rnd=9359940" height="30" width="40" /></a>
 </p>
-<div style="display: flex; flex-wrap: wrap;">
+
+<div style="display: flex;">
 
 <div style="flex: 1;">
 <h3 align="left">Frontend Technologies:</h3>
@@ -48,6 +49,7 @@
   </a>
 
 </p>
+</div>
 
 <div style="flex: 1;">
 <h3 align="left">Backend Technologies:</h3>
@@ -67,8 +69,14 @@
   </a>
 
 </p>
+</div>
+</div>
 
+<div style="display: flex;">
+
+<div style="flex: 1;">
 <h3 align="left">Programming Languages:</h3>
+<p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
@@ -88,9 +96,13 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
+</p>
 
+</div>
 
+<div style="flex: 1;">
 <h3 align="left">Other:</h3>
+<p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
@@ -102,5 +114,10 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
+</p>
+</div>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nemethzozzi&show_icons=true&locale=en&layout=compact" alt="nemethzozzi" /></p>
+<br>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nemethzozzi&show_icons=true&locale=en&layout=compact" alt="nemethzozzi" /></p>
