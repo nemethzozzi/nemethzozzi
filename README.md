@@ -1,123 +1,73 @@
-<h1 align="center">Hi 👋, I'm Zoltán Németh</h1>
-<h3 align="center">Software Engineering student at University of Szeged</h3>
-
-- 🌱 I’m currently learning **.NET**
-
-- 👨‍💻 All of my projects are available at [https://portfolionz2023.web.app/](https://portfolionz2023.web.app/)
-
-- 📫 How to reach me **nemethzoltan0524@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nemeth_zozzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nemeth_zozzi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nemethzozzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nemethzozzi" height="30" width="40" /></a>
-<a href="https://discord.gg/654333734580912148?mwg_rnd=9359940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="654333734580912148?mwg_rnd=9359940" height="30" width="40" /></a>
-</p>
-
-<div style="display: flex;">
-
-<div style="flex: 1;">
-<h3 align="left">Frontend Technologies:</h3>
-
-<p align="left">
-  <a href="https://www.w3.org/html/" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  
-  <a href="https://getbootstrap.com" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  
-  <a href="https://sass-lang.com" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  
-  <a href="https://tailwindcss.com/" target="blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  
-  <a href="https://angular.io" target="blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  
-  <a href="https://reactjs.org/" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-
-</p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome%20to%20my%20profile&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FF0000"  />
 </div>
 
-<div style="flex: 1;">
-<h3 align="left">Backend Technologies:</h3>
+###
 
-<p align="left">
+<p align="left">👋 Hi there</p>
 
-  <a href="https://nodejs.org" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://firebase.google.com/" target="blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
+###
 
-  <a href="https://www.mysql.com/" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
+<h6 align="left">I'm Zoltán Németh, a software developer focused on full stack web development. I enjoy building clean, efficient solutions and continuously learning new technologies. Always open to new challenges and opportunities to grow.</h6>
 
-</p>
-</div>
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nemethzozzi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<div style="display: flex;">
+###
 
-<div style="flex: 1;">
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
+<h1 align="center">TECHNOLOGIES</h1>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.java.com" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.python.org" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.php.net" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-</p>
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="35" alt="css logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="django logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="dart logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt="docker logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="35" alt="graphql logo"  />
 </div>
 
-<div style="flex: 1;">
-<h3 align="left">Other:</h3>
-<p align="left">
-  <a href="https://www.figma.com/" target="blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  
-  <a href="https://git-scm.com/" target="blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.linux.org/" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
-</div>
-</div>
+###
 
-<br>
+<img src="https://raw.githubusercontent.com/nemethzozzi/nemethzozzi/output/snake.svg" alt="Snake animation" />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nemethzozzi&show_icons=true&locale=en&layout=compact" alt="nemethzozzi" /></p>
+###
